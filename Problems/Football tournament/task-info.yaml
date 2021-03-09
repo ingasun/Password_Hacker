@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+- name: file.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8493
+status: Solved
+record: -1
